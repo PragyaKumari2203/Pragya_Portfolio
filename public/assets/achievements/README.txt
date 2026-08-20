@@ -1,0 +1,1 @@
+The 350+ LeetCode / DSA achievement is intentionally text-based. No image is required.

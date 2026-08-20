@@ -1,0 +1,1 @@
+Add your real certificate images here using the filenames configured in src/data/portfolio.ts.

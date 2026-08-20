@@ -1,0 +1,1 @@
+Add your real profile photo here as profile.jpg. No generated/fake image is included.
