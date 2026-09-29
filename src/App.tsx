@@ -48,16 +48,17 @@ function App() {
         <section id="home" className="hero-dark">
           <div className="hero-grid">
             <div className="hero-copy-dark">
-              <div className="status-line"><span /> AVAILABLE FOR ENTRY-LEVEL ROLES</div>
               <p className="hero-overline">B.TECH CSE · 2026 GRADUATE · RANCHI, INDIA</p>
               <h1>
-                Hi, I'm <span>Pragya.</span>
+                Hi,
                 <br />
-                I build web apps.
+                 I'm <span>Pragya.</span>
+                {/* <br />
+                I build web apps. */}
               </h1>
               <p className="hero-description">
                 A fresher and full-stack developer who enjoys building responsive
-                React interfaces, REST APIs, authentication systems and database-backed applications.
+                 interfaces, REST APIs, authentication systems and database-backed applications.
               </p>
 
               <div className="hero-ctas">

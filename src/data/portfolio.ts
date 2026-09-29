@@ -13,20 +13,14 @@ export const portfolio = {
     "Programming Languages": ["JavaScript (ES6+)", "TypeScript", "Python", "C++", "SQL"],
     "Frontend Development": [
       "React.js", "React Hooks", "React Context API", "State Management",
-      "React Router", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap",
-      "Responsive Web Design", "Axios", "API Integration", "Asynchronous JavaScript"
+      "React Router", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"
     ],
     "Backend Development": [
-      "Node.js", "Express.js", "Flask", "RESTful API Design", "REST APIs",
-      "Express Middleware", "Authentication", "Authorization", "JWT",
-      "Role-Based Access Control (RBAC)", "bcrypt", "HTTP-only Cookies", "CORS",
-      "CRUD Operations", "Request Validation", "API Security", "API Integration",
-      "Error Handling", "Debugging", "Microservices"
+      "Node.js", "Express.js", "REST APIs","JWT", "Role-Based Access Control (RBAC)"
     ],
-    "Databases": ["MongoDB", "MongoDB Atlas", "Mongoose", "MySQL", "Database Design", "Schema Design"],
+    "Databases": ["MongoDB", "MongoDB Atlas", "Mongoose", "MySQL"],
     "Tools & Practices": [
-      "Git", "GitHub", "Postman", "API Testing", "VS Code", "Vite", "npm",
-      "Vercel", "Render"
+      "Git", "GitHub", "Postman", "VS Code"
     ],
     "AI / Machine Learning": ["NumPy", "Pandas", "Scikit-learn"],
     "Core CS Fundamentals": [
